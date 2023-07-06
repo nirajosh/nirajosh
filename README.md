@@ -1,6 +1,4 @@
-## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nirajosh&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajosh&theme=dark" width="48%" >
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirajosh&theme=nightowl)](https://git.io/streak-stats)
 
 ## Top Languages
   
